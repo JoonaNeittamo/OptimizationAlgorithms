@@ -14,12 +14,12 @@ This document illustrates the Farmers Optimization problem solved using Linear P
 ---
 
 ## Example Output:
-Optimization status: Optimal
-TV Spots: 4.0
-Newspaper Ads: 5.0
-Prime Radio Spots: 18.0
-Afternoon Radio Spots: 20.0
-Total Audience Reached: 158800.0
-Time: 0.056 seconds
+- Optimization status: Optimal
+- TV Spots: 4.0
+- Newspaper Ads: 5.0
+- Prime Radio Spots: 18.0
+- Afternoon Radio Spots: 20.0
+- Total Audience Reached: 158800.0
+- Time: 0.056 seconds
 
 This script demonstrates how Linear Programming can be applied to optimize resource allocation in marketing campaigns, ensuring maximum audience reach within budget constraints.
